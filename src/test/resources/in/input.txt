@@ -1,0 +1,11 @@
+# Taille de la carte (3 colonnes x 4 lignes)
+C - 3 - 4
+
+# Montagnes (infranchissables)
+M - 1 - 0
+
+# Trésors (position et nombre de trésors)
+T - 1 - 3 - 3
+
+# Aventuriers (nom, position initiale, orientation, séquence de mouvement)
+A - A1 - 1 - 1 - S - AADADAGGA
